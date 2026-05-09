@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+neo4j
+langgraph
+langchain
+qdrant-client
+boto3
+strawberry-graphql
+python-dotenv
